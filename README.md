@@ -1,7 +1,7 @@
 # 📚 Book Recommender System
 
 A content-filtering and collaborative-filtering machine learning project that recommends books based on user ratings. Built using Python, Pandas, Scikit-Learn, and Google Cloud Storage.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SyRl_6KmRcoALx9hWbjILjT1qXPcxk14?usp=drive_link)
 ---
 
 ## 🚀 Features
